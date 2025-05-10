@@ -12,7 +12,7 @@ This project explores the relationship between maximum heart rate and heart dise
 
 ---
 
-## 📊 Dataset Summary
+## Dataset Summary
 
 The dataset contains medical records of patients, including:
 - Demographics (age, sex)
